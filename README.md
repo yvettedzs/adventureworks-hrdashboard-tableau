@@ -1,5 +1,6 @@
-## HR Dashboard – Workforce Trends & Hiring Patterns  
-Business Context  
+# AdventureWorks HR Dashboard – Workforce Trends & Hiring Patterns  
+
+## Business Context  
 AdventureWorks wants to track workforce growth, hiring trends, and department growth over time. The dashboard focuses on hiring trends.  
 
 The dashboard can be found on Tableau Public https://public.tableau.com/app/profile/yvette.dezso/viz/YvetteDezsM2S1AdventureWorksHRDashboardDec2025/HRSummary
